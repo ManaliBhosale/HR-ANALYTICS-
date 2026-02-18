@@ -96,3 +96,16 @@ Improved workforce planning decisions
 Supported HR leadership with KPI-driven insights
 
 Enhanced data-driven talent management
+
+▶️ How to Use
+
+Clone the repository
+
+git clone https://github.com/your-username/hr-analytics-dashboard.git
+
+
+Open the .pbix file in Power BI Desktop
+
+Load the dataset if prompted
+
+Interact with slicers and visuals for deeper analysis
